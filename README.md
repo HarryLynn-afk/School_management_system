@@ -1,4 +1,3 @@
-# School_management_system
 # School Management System
 
 A simple Python project to manage students in a school. It allows adding, updating, displaying, and removing student records.
